@@ -12,7 +12,7 @@
 -- Action wheel stuff. Copy paste it on your script.lua or your current action wheel or smth :>
 -- local page = action_wheel:newPage()
 -- action_wheel:setPage(page)
--- toggleTranslator = page:newAction():title("Toggle Auto Translator Dal Lile"):item("minecraft:Paper"):setOnToggle(Dal_Lile.toggle_translator):setToggled(false)
+-- toggleTranslator = page:newAction():title("Toggle Auto Translator Dal Lile"):item("minecraft:paper"):setOnToggle(Dal_Lile.toggle_translator):setToggled(false)
 
 
 local M = {}
